@@ -8,7 +8,7 @@ Category:	Data
 Synopsis:	Lock free Spin Counter
 Build-Type:     Simple
 Maintainer:     Julian Sutherland (julian.sutherland10@imperial.ac.uk)
-Description:    A simple lock free spin counter.
+Description:    A simple lock-free spin counter.
 License-file:   LICENSE
 
 Library
